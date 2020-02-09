@@ -1,0 +1,10 @@
+C:\Users\mathi\source\repos\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.exe
+C:\Users\mathi\source\repos\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.deps.json
+C:\Users\mathi\source\repos\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.runtimeconfig.json
+C:\Users\mathi\source\repos\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.dll
+C:\Users\mathi\source\repos\Even or Odd\bin\Debug\netcoreapp3.1\Even or Odd.pdb
+C:\Users\mathi\source\repos\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.AssemblyInfo.cs
+C:\Users\mathi\source\repos\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.dll
+C:\Users\mathi\source\repos\Even or Odd\obj\Debug\netcoreapp3.1\Even or Odd.pdb
